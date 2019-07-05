@@ -1,8 +1,8 @@
 # Algorithms and programming
 
-- Download TP (Question And Solution): [Click Here](https://drive.google.com/open?id=1BiK3mx27I7msz7BxUEqDJZbDDU7bPYbH)  
+- Download TP (Question And Solution): [Click Here](https://drive.google.com/open?id=1tISLZMnYjeMLfPOhEodyoc_nWbawKRpr)  
 - Download Course: [Click Here](https://drive.google.com/open?id=18rXuGPQsokRY0Wn4yeR9712QnomGwtwl)  
-- Download Both Merged: [Click Here](https://drive.google.com/open?id=1tISLZMnYjeMLfPOhEodyoc_nWbawKRpr)  
+- Download Both Merged: [Click Here](https://drive.google.com/open?id=1BiK3mx27I7msz7BxUEqDJZbDDU7bPYbH)  
 
 *Note:
 
